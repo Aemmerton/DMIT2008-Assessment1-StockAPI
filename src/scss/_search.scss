@@ -1,7 +1,7 @@
 .search-api{
     margin: 2rem 0 1.5rem;
 }
-.categories{
+.intervals{
     font-size: 14px;
     display:grid;
     grid-template-columns: repeat(3, 80px);
@@ -28,14 +28,14 @@
 }
  
 
-.category.subheading{
+.interval.subheading{
     grid-column: 1/-1;
     font-size: 1rem;
     margin-bottom: 0.25rem;
     font-size: 1rem;
 }
 
- .category.search-term{
+ .interval.search-term{
      margin-top:1rem;
      grid-gap:0.5rem;
     grid-column: 1/ -1;

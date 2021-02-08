@@ -6,15 +6,6 @@ function SearchView(viewId){
      this.setController = function(controller){
           this.searchController= controller;         
      }
-     
-     this.updateLabel= function(label){
-          // assign the new label
-          this.view.querySelector('label[for=searchTerm]').textContent = label
-       
-     }
-     
-     
-  
      return this
 }
 

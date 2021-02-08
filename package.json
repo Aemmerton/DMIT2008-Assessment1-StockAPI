@@ -1,0 +1,27 @@
+{
+  "name": "assessment-1",
+  "version": "1.0.0",
+  "description": "Assessment 1 stock API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aemmerton/DMIT2008-Assessment1-StockAPI.git"
+  },
+  "author": "Alex Emmerton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aemmerton/DMIT2008-Assessment1-StockAPI/issues"
+  },
+  "homepage": "https://github.com/Aemmerton/DMIT2008-Assessment1-StockAPI#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/preset-env": "^7.12.13"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}
